@@ -1,5 +1,10 @@
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
+## IMPORT NOTE
+
+The instructions described below refer to the initial challenge exposed in the web page https://speedrunethereum.com/challenge/decentralized-staking. For our particular case we will use the code/
+framework as a base in order to adapt it to the requirements/needs exposed in https://docs.alchemy.com/docs/how-to-build-a-staking-dapp.
+
 ## 🚩 Challenge 1: 🥩 Decentralized Staking App
 
 > 🦸 A superpower of Ethereum is allowing you, the builder, to create a simple set of rules that an adversarial group of players can use to work together. In this challenge, you create a decentralized application where users can coordinate a group funding effort. If the users cooperate, the money is collected in a second smart contract. If they defect, the worst that can happen is everyone gets their money back. The users only have to trust the code.
